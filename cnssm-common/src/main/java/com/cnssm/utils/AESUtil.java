@@ -1,4 +1,4 @@
-package com.cnssm.entity;
+package com.cnssm.utils;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
